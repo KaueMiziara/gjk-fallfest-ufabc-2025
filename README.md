@@ -13,7 +13,7 @@
 
 ## Instalação de Dependências
 
-Basta executar o comando abaixo terminal.
+Basta executar o comando abaixo terminal antes de executar o notebook.
 > Recomendamos que crie um ambiente virual antes de executá-lo
 
 ```bash
